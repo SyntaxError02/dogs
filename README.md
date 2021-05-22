@@ -2,8 +2,8 @@
 
 React Native App
 
-<img width="170" alt="short-clip" src="/wireframes/home.png">
-<img width="170" alt="short-clip" src="/wireframes/preview.gif">
+<img width="170" alt="short-clip" src="/wireframes/screen.jpg">
+<img width="170" alt="short-clip" src="/wireframes/giphy.gif">
 <br />
 
 1. npm install -g react-native-cli
